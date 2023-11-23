@@ -1,1 +1,1 @@
-# CodSoft-Internship
+# TITANIC SURVIVAL PREDICTION
